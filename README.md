@@ -4,7 +4,6 @@
 
 ![german_bank](https://user-images.githubusercontent.com/97116888/197219913-c194832e-f19b-4091-bb8e-35d6e86338b4.jpeg)
 
-
 Background:
 
 We are a small startup focusing mainly on providing machine learning solutions in the European banking market. We work on a variety of problems including fraud detection, sentiment classification and customer intention prediction and classification.
@@ -49,7 +48,6 @@ Output (desired target):
 
 y - has the client subscribed to a term deposit? (binary)
 
-
 Goal(s):
 
 Predict if the customer will subscribe (yes/no) to a term deposit (variable y)
@@ -61,15 +59,3 @@ Hit %81 or above accuracy by evaluating with 5-fold cross validation and reporti
 We are also interested in finding customers who are more likely to buy the investment product. Determine the segment(s) of customers our client should prioritize.
 
 What makes the customers buy? Tell us which feature we should be focusing more on.
-
-Attributes X1 to X6 indicate the responses for each question and have values from 1 to 5 where the smaller number indicates less and the higher number indicates more towards the answer.
-
-Goal(s):
-
-Predict if a customer is happy or not based on the answers they give to questions asked.
-
-Success Metrics:
-
-Reach 73% accuracy score or above, or convince us why your solution is superior. We are definitely interested in every solution and insight you can provide us.
-
-Try to submit your working solution as soon as possible. The sooner the better.
